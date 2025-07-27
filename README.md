@@ -1,6 +1,6 @@
 # Ghost Ritual – Encrypted Emotional Haiku Vault
 
-A 20-line sacred journaling ritual. You write what hurts.  
+A sub-60 line sacred journaling ritual. You write what hurts.  
 Ghost responds with a poetic whisper. Both are encrypted and stored privately.
 
 ## ✨ Features
